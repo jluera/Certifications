@@ -1,9 +1,10 @@
-# Certifications
 Certifications and other tech-related statements of achievement I have received.
 
-There is also a folder for expired certificates so I can track those over the years as well.
+There is also a folder for expired certificates so I can keep track of those.
 
-* Google Cloud Certified Professional Data Engineer - Re-Obtained 02-08-23 (Previously 03-06-21) - Verify https://google.accredible.com/aa2b88fd-b490-4181-bfb3-902746db5f5c?key=c7ce8021af5ae2aa7ac13b6b1ca4bb8f468bede74de311bbb1b5e1d0c56b1632#gs.47t5xb
+# Active Certifications
+
+* Google Cloud Certified Professional Data Engineer - Re-Obtained 02-08-23 - Verify https://google.accredible.com/aa2b88fd-b490-4181-bfb3-902746db5f5c?key=c7ce8021af5ae2aa7ac13b6b1ca4bb8f468bede74de311bbb1b5e1d0c56b1632#gs.47t5xb
 
 * Google Data Analytics Specialization - Obtained 01-05023 - Verify https://www.credly.com/badges/376995e4-efeb-41c0-aa6f-e78c847f04d6
 
@@ -18,3 +19,11 @@ There is also a folder for expired certificates so I can track those over the ye
 * Google Cloud Certified Associate Cloud Engineer - Obtained 26-01-21 - Verify https://www.credential.net/f9fb762e-0134-4d0c-a851-3fd4739ed0e8
 
 
+
+# Expired Certifications
+Certifications that I have previously held and have since expired. 
+(Although some of these may have been renewed)
+
+* Google Cloud Certified Professional Data Engineer - Obtaind 03-06-21
+* COA: Certified OpenStack Administrator - Obtained 01-10-17
+* Red Hat Certified Engineer - Obtained 10-02-10
