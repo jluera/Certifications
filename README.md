@@ -1,7 +1,20 @@
 # Certifications
-Certifications and other tech related statemenets of achievement I have received.
+Certifications and other tech-related statements of achievement I have received.
 
-There is a folder for expired certificates so I can track those over the years as well.
+There is also a folder for expired certificates so I can track those over the years as well.
 
-Note: My Google Cloud Certified Professional Data Engineer certificate expired on June 3, 2023.  
-I am currently preparing to take the re-certification exam and I expect to complete it by the end of June 2023.
+* Google Cloud Certified Professional Data Engineer - Re-Obtained 02-08-23 (Previously 03-06-21) - Verify https://google.accredible.com/aa2b88fd-b490-4181-bfb3-902746db5f5c?key=c7ce8021af5ae2aa7ac13b6b1ca4bb8f468bede74de311bbb1b5e1d0c56b1632#gs.47t5xb
+
+* Google Data Analytics Specialization - Obtained 01-05023 - Verify https://www.credly.com/badges/376995e4-efeb-41c0-aa6f-e78c847f04d6
+
+* Databricks Certified Associate Developer for Apache Spark 3.0 - Obtained 03-03-23 - Verify https://credentials.databricks.com/c00924e6-87d0-4459-bee6-febdbadbccd6
+
+* DataCamp Data Engineer with Python - Obtained 18-01-22 - Verify https://www.datacamp.com/statement-of-accomplishment/track/cc722354847109250c06f4b6fcb39a4df04b167a
+
+* CKA: Certified Kubernetes Administrator - Obtained 07-10-21 - Verify https://www.credly.com/badges/f4cb1bd0-a6f1-42fd-94d1-bb9fe84ade03?source=linked_in_profile
+
+* CKAD: Certified Kubernetes Application Developer - Obtained 08-09-21 - Verify https://www.credly.com/badges/191dedff-864f-4247-9e00-8924d746c84f?source=linked_in_profile
+
+* Google Cloud Certified Associate Cloud Engineer - Obtained 26-01-21 - Verify https://www.credential.net/f9fb762e-0134-4d0c-a851-3fd4739ed0e8
+
+
