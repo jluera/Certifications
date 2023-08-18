@@ -2,7 +2,7 @@ Certifications and other tech-related statements of achievement I have received.
 
 There is also a folder for expired certificates so I can keep track of those.
 
-##### Active Certifications #####
+# Active Certifications
 * Microsoft Certified: Azure Data Fundamentals - Obtained 17-08-23 - Verify https://learn.microsoft.com/en-us/users/jasonluera/credentials/4f4650e4746555c7
 
 * Microsoft Certified: Azure Fundamentals - Obtained 09-08-23 - Verify https://learn.microsoft.com/en-us/users/jasonluera/credentials/9d5e339598744fac
