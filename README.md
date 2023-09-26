@@ -27,7 +27,7 @@ There is also a folder for expired certificates so I can keep track of those.
 
 # Expired Certifications
 Certifications that I have previously held and have since expired. 
-(Although some of these may have been renewed again)
+  (Although some of these may have been renewed again)
 
 * Google Cloud Certified Professional Data Engineer - Obtained 03-06-21
 * COA: Certified OpenStack Administrator - Obtained 01-10-17
