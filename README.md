@@ -1,6 +1,6 @@
-Certifications and other tech-related statements of achievement I have received.
+Certifications and other tech-related statements of achievement I have received. <br>
 
-There is also a folder for expired certificates so I can keep track of those.
+(There is also a folder for expired certificates so I can keep track of those)
 
 # Active Certifications And Statements Of Achievement
 * Google Cloud Certified Professional Cloud Architect - Obtained 17-09-23 -  Verify https://google.accredible.com/e90c18e4-f74f-4497-9cb2-030cc3c26fda
