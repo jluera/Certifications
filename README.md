@@ -13,7 +13,7 @@ Certifications and other tech-related statements of achievement I have received.
 
 * Microsoft Certified: Azure Fundamentals - Obtained 09-08-23 - Verify https://learn.microsoft.com/en-us/users/jasonluera/credentials/9d5e339598744fac
 
-* Google Cloud Certified Professional Data Engineer - Re-Obtained 02-08-23 - Verify https://google.accredible.com/aa2b88fd-b490-4181-bfb3-902746db5f5c?key=c7ce8021af5ae2aa7ac13b6b1ca4bb8f468bede74de311bbb1b5e1d0c56b1632#gs.47t5xb
+* Google Cloud Certified Professional Data Engineer - Re-Obtained 02-08-23 - Verify https://google.accredible.com/aa2b88fd-b490-4181-bfb3-902746db5f5c
 
 * Google Data Analytics Specialization - Obtained 01-05-23 - Verify https://www.credly.com/badges/376995e4-efeb-41c0-aa6f-e78c847f04d6
 
