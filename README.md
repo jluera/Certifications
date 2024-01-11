@@ -21,12 +21,11 @@ Certifications and other tech-related statements of achievement I have received.
 
 * DataCamp Data Engineer with Python - Obtained 18-01-22 - Verify https://www.datacamp.com/statement-of-accomplishment/track/cc722354847109250c06f4b6fcb39a4df04b167a
 
+* CKAD: Certified Kubernetes Application Developer - Obtained 08-09-21 - Verify https://www.credly.com/badges/191dedff-864f-4247-9e00-8924d746c84f?source=linked_in_profile
+  
 * CKA: Certified Kubernetes Administrator - Obtained 07-10-21 - Verify https://www.credly.com/badges/f4cb1bd0-a6f1-42fd-94d1-bb9fe84ade03?source=linked_in_profile
 
-* CKAD: Certified Kubernetes Application Developer - Obtained 08-09-21 - Verify https://www.credly.com/badges/191dedff-864f-4247-9e00-8924d746c84f?source=linked_in_profile
-
 * Google Cloud Certified Associate Cloud Engineer - Obtained 26-01-21 - Verify https://www.credential.net/f9fb762e-0134-4d0c-a851-3fd4739ed0e8
-
 
 
 # Expired Certifications
