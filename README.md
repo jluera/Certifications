@@ -1,6 +1,5 @@
 Certifications and other tech-related statements of achievement I have received. <br>
 
-(There is also a folder for expired certificates so I can keep track of those)
 
 # Active Certifications And Statements Of Achievement 
 (Dates in DMY format)
