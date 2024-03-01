@@ -1,4 +1,4 @@
-# Active Certifications And Other Tech-Related Statements Of Achievements I Have Received
+# Active Certifications And Statements Of Achievements
 (Dates in DMY format)
 * AWS Certified Solutions Architect - Associate - Obtained 22-11-23 - Verify https://www.credly.com/badges/83d9d0e0-33e2-4db1-bf0c-b62aa7d37c5d/public_url
   
