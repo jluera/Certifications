@@ -2,7 +2,7 @@ Certifications and other tech-related statements of achievement I have received.
 
 (There is also a folder for expired certificates so I can keep track of those)
 
-# Active Certifications And Statements Of Achievement
+# Active Certifications And Statements Of Achievement (Dates in DMY format)
 * AWS Certified Solutions Architect - Associate - Obtained 22-11-23 - Verify https://www.credly.com/badges/83d9d0e0-33e2-4db1-bf0c-b62aa7d37c5d/public_url
   
 * AWS Certified Cloud Practitioner - Obtained 08-11-23 - Verify https://www.credly.com/badges/c48172f7-689e-4f74-93a6-7011887ad646/public_url
