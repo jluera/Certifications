@@ -32,6 +32,7 @@ Certifications and other tech-related statements of achievement I have received.
 Certifications that I have previously held and have since expired. <br>
 (Although some of these may have been renewed again)
 
-* Google Cloud Certified Professional Data Engineer - Obtained 03-06-21
+* Google Cloud Certified Associate Cloud Engineer  - Valid 01-26-21 - 01-26-24
+* Google Cloud Certified Professional Data Engineer - Valid 03-06-21 - 03-06-23
 * COA: Certified OpenStack Administrator - Obtained 01-10-17
 * Red Hat Certified Engineer - Obtained 10-02-10
